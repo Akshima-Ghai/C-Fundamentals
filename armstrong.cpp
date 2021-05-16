@@ -9,4 +9,13 @@ int main() {
 
     while (originalNum != 0) {
         // remainder contains the last digit
+          }
+
+    if (result == num)
+        cout << num << " is an Armstrong number.";
+    else
+        cout << num << " is not an Armstrong number.";
+
+    return 0;
+}
     
