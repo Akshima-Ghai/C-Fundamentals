@@ -9,10 +9,4 @@ int main() {
 
     while (originalNum != 0) {
         // remainder contains the last digit
-        remainder = originalNum % 10;
-        
-        result += remainder * remainder * remainder;
-        
-        // removing last digit from the orignal number
-        originalNum /= 10;
-    }
+    
