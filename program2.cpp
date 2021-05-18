@@ -9,3 +9,4 @@ int main()
    cout << MAX << endl;
    return 0;
 } 
+// output: 	Compilation Error
