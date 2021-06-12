@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//armstrong
 int main() {
     int num, originalNum, remainder, result = 0;
     cout << "Enter a three-digit integer: ";
