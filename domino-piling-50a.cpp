@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    //de
+    
     int m, n;
     cin >> m >> n;
     if (m % 2 == 0 && n % 2 == 0)
