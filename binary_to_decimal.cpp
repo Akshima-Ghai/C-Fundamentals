@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    //binary
+    //bin
     string n;
     cin >> n;
     int ans = 0;
