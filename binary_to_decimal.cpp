@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    //bi
+    //b
     string n;
     cin >> n;
     int ans = 0;
