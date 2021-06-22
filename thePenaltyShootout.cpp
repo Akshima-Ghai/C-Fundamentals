@@ -1,6 +1,5 @@
 class Solution{
-public:	//hel
-	
+public:	//he
 	int penaltyScore(string S)
 	{
 	    // Your code goes here
