@@ -1,5 +1,5 @@
 class Solution{
-public:	//hello
+public:	//hel
 	
 	int penaltyScore(string S)
 	{
