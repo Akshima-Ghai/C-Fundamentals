@@ -3,7 +3,7 @@ using namespace std;
 //binary search is used for sorted arrays
 int binarySearch(int arr[], int n, int ele)
 {
-    //hello
+    
     int start = 0, end = n - 1;
     while (start < end)
     {
